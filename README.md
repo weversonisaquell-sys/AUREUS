@@ -5,17 +5,10 @@
 
 
 
-
-![image alt](https://github.com/weversonisaquell-sys/AUREUS/blob/f5a0cc80f115ba7acd80f9fd1d025cf5cf768098/Screenshot_20260901-124313.png)
-
-
-
-
-
-
-
 AUREUS v1.0.0
 Painel moderno e compacto para Roblox, desenvolvido em Lua, com interface escura e detalhes em vermelho.
+
+![image alt](https://github.com/weversonisaquell-sys/AUREUS/blob/f5a0cc80f115ba7acd80f9fd1d025cf5cf768098/Screenshot_20260901-124313.png)
 ✨ Recursos
 🎨 Interface moderna e responsiva
 🖥️ Painel arrastável
